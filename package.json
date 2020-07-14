@@ -4,9 +4,13 @@
   "description": "MomentJS Activity - precise age clock",
   "main": "index.html",
   "dependencies": {
-    "moment": "^2.18.1",
+    "moment": "^2.27.0",
     "moment-precise-range-plugin": "^1.2.1"
+  },
+  "scripts": {
+    "start": "npx live-server"
   },
   "author": "Ari Frankel (ari.l.frankel@gmail.com)",
   "license": "MIT"
+
 }
